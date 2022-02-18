@@ -1,2 +1,2 @@
 # BillionAbles
-Build an Assistive tool for Differently Abled People
+An Assistive tool for Differently Abled People
