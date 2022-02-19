@@ -1,3 +1,6 @@
+# We have to branches :
+App Development : https://github.com/dishantzaveri/BillionAbles/tree/appdev
+Web Development : https://github.com/dishantzaveri/BillionAbles/tree/website
 # Billion Ables
 
 Billion ables is a software where a Differently Abled person can avail various features or tools available in the site and can use any of the tools the availble tools are fingure gesture detection, object detection, text to speech , speech to text , mental health care , font family This all the features are totally working and the chatbot is available on the home page to help the user to solve the problems they are facing while using the app and the instant solution is provided on the problem.
