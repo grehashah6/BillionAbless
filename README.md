@@ -67,7 +67,7 @@ Web Preview : Site Link - https://pedantic-tereshkova-409fb4.netlify.app/
  <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/13.png" width = "40%" />
  <img src = "https://github.com/dishantzaveri/BillionAbles/blob/appdev/assets/12.jpeg" width = "40%" />
 
-# App Priview
+# App Preview
  <p float="left">
 <img src = "https://github.com/dishantzaveri/BillionAbles/blob/appdev/assets/1.jpeg" width = "40%" />
 <img src = "https://github.com/dishantzaveri/BillionAbles/blob/appdev/assets/2.jpeg" width = "40%" />
