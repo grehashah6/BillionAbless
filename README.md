@@ -38,6 +38,13 @@ Success usually comes to those who are too busy to be looking for it.” – Hen
 
 Now we are taking this time to introduce you guys with the web thing of our company which is basically a website.
 
+# Description of the Billion Ables
+We have developed a portable cross-platform app for both android and ios and also a website with similar functionalities for specially abled users. Billion Ables has various features like finger gesture detector in that the person who cannot listen and speak will be able to communicate through hand gestures . The object detector helps visually impaired person to detect the object he wants to identify by just facing camera towards it .
+The Feature of text to speech and speech to text will help the people who can’t speak or can’t hear . We have also add a feature of font simplify for people suffering from dyslexia so that they can read the text more easily and simply . 
+The chatbot feature is available on the homepage of software where The user can ask the doubt he is facing from the tools available and the instant solution will be provided for the problem . We have also added a pdf reader feature where the pdf uploaded by user is converted into audio . 
+We are planning to implement a end-to-end platform where in the users can communicate with counselors and doctors in all mediums . 
+
+
 # Overcoming The Challenges — Solution Overview
 
 <h3 align="left">Languages and Tools:</h3>
