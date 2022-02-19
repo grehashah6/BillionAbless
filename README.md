@@ -51,7 +51,20 @@ We are planning to implement a end-to-end platform where in the users can commun
 
 # Overcoming The Challenges — Solution Overview
 Web Preview :
-<img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/1.png" width = "100" />
+<p float="left">
+<img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/1.png" width = "40%" />
+<img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/2.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/3.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/4.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/5.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/6.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/7.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/8.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/9.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/10.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/11.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/12.png" width = "40%" />
+ <img src = "https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/13.png" width = "40%" />
 
 
 <h3 align="left">Languages and Tools:</h3>
