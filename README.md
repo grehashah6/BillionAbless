@@ -1,4 +1,4 @@
-# We have to branches :
+# We have Branches :
 App Development : https://github.com/dishantzaveri/BillionAbles/tree/appdev
 <br />Web Development : https://github.com/dishantzaveri/BillionAbles/tree/website
 # Billion Ables
