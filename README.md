@@ -1,5 +1,5 @@
 # Technovanza :
-This is our pr0ject made for VJTI's 24 Hours Technovanza . We bagged the second place .
+This is our project made for VJTI's 24 Hours Technovanza . We bagged the second place .
 
 # We have Branches :
 App Code : https://github.com/dishantzaveri/BillionAbles/tree/appdev
