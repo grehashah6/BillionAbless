@@ -1,5 +1,5 @@
 # Technovanza :
-This is our project made for VJTI's 24 Hours Hackathon Technovanza 2022 . We bagged the second place .
+This is our project made for VJTI's 24 Hours Hackathon Technovanza 2022 . We bagged the second place(Rewarded with cash prize of Rs.25000 + Goodies) .
 
 # We have Branches :
 App Code : https://github.com/dishantzaveri/BillionAbles/tree/appdev
