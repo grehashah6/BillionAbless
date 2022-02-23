@@ -14,8 +14,8 @@ Hola Everyone, This is team The Enemies of Syntax which consists of 4 people of 
 
 # Contributors :
 <br />Dishant Zaveri (ReactNative) : https://github.com/dishantzaveri
-<br />Manan Shah (ReactNative) : https://github.com/Manan17
-<br />Mihir Shinde (Frontend) : https://github.com/MihirShinde-29
+<br />Manan Shah (ReactNative + React) : https://github.com/Manan17
+<br />Mihir Shinde (React Frontend) : https://github.com/MihirShinde-29
 <br />Yash Joshi (Backend) : https://github.com/joshiyash05
 
 
