@@ -12,12 +12,6 @@ Billion ables is a software where a Differently Abled person can avail various f
 
 Hola Everyone, This is team The Enemies of Syntax which consists of 4 people of each and every stack. We have Dishant and Manan here for React Native, Mihir for Frontend and Yash for AI/ML and Backend .
 
-# Contributors :
-<br />Dishant Zaveri (ReactNative) : https://github.com/dishantzaveri
-<br />Manan Shah (ReactNative + React) : https://github.com/Manan17
-<br />Mihir Shinde (React Frontend) : https://github.com/MihirShinde-29
-<br />Yash Joshi (Backend) : https://github.com/joshiyash05
-
 
 # Case Study: Billion Ables
 
